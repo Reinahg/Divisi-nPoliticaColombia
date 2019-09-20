@@ -1,0 +1,1043 @@
+Amazonas,LETICIA,Capital
+Amazonas,PUERTO NARIÑO
+Antioquia,ABEJORRAL
+Antioquia,ABRIAQUI
+Antioquia,ALEJANDRIA
+Antioquia,AMAGA
+Antioquia,AMALFI
+Antioquia,ANDES
+Antioquia,ANGELOPOLIS
+Antioquia,ANGOSTURA
+Antioquia,ANORI
+Antioquia,ANZA
+Antioquia,APARTADO
+Antioquia,ARBOLETES
+Antioquia,ARGELIA
+Antioquia,ARMENIA
+Antioquia,BARBOSA
+Antioquia,BELLO
+Antioquia,BELMIRA
+Antioquia,BETANIA
+Antioquia,BETULIA
+Antioquia,BOLIVAR
+Antioquia,BRICEÑO
+Antioquia,BURITICA
+Antioquia,CACERES
+Antioquia,CAICEDO
+Antioquia,CALDAS
+Antioquia,CAMPAMENTO
+Antioquia,CAÑASGORDAS
+Antioquia,CARACOLI
+Antioquia,CARAMANTA
+Antioquia,CARMEN DE VIBORAL
+Antioquia,CAROLINA
+Antioquia,CAUCASIA
+Antioquia,CHIGORODO
+Antioquia,CISNEROS
+Antioquia,COCORNA
+Antioquia,CONCEPCION
+Antioquia,CONCORDIA
+Antioquia,COPACABANA
+Antioquia,DABEIBA
+Antioquia,DON MATIAS
+Antioquia,EBEJICO
+Antioquia,EL BAGRE
+Antioquia,EL JORDAN
+Antioquia,ENTRERRIOS
+Antioquia,ENVIGADO
+Antioquia,FREDONIA
+Antioquia,FRONTINO
+Antioquia,GIRALDO
+Antioquia,GIRARDOTA
+Antioquia,GOMEZ PLATA
+Antioquia,GRANADA
+Antioquia,GUADALUPE
+Antioquia,GUARNE
+Antioquia,GUATAPE
+Antioquia,HELICONIA
+Antioquia,HISPANIA
+Antioquia,ITAGÜI
+Antioquia,ITUANGO
+Antioquia,JARDIN
+Antioquia,JERICO
+Antioquia,LA CEJA
+Antioquia,LA ESTRELLA
+Antioquia,LA PINTADA
+Antioquia,LA UNION
+Antioquia,LIBORINA
+Antioquia,MACEO
+Antioquia,MARINILLA
+Antioquia,MEDELLIN,Capital
+Antioquia,MONTEBELLO
+Antioquia,MURINDO
+Antioquia,MUTATA
+Antioquia,NARIÑO
+Antioquia,NECHI
+Antioquia,NECOCLI
+Antioquia,OLAYA
+Antioquia,PEÑOL
+Antioquia,PEQUE
+Antioquia,PUEBLO RICO
+Antioquia,PUERTO BERRIO
+Antioquia,PUERTO NARE
+Antioquia,PUERTO TRIUNFO
+Antioquia,REMEDIOS
+Antioquia,RETIRO
+Antioquia,RIONEGRO
+Antioquia,SABANALARGA
+Antioquia,SABANETA
+Antioquia,SALGAR
+Antioquia,SAN ANDRES
+Antioquia,SAN CARLOS
+Antioquia,SAN FRANCISCO
+Antioquia,SAN JERONIMO
+Antioquia,SAN JOSE DE LA MONTAÑA
+Antioquia,SAN JUAN DE URABA
+Antioquia,SAN LUIS
+Antioquia,SAN PEDRO
+Antioquia,SAN PEDRO DE URABA
+Antioquia,SAN RAFAEL
+Antioquia,SAN ROQUE
+Antioquia,SAN VICENTE
+Antioquia,SANTA BARBARA
+Antioquia,SANTA FE DE ANTIOQUIA
+Antioquia,SANTA ROSA DE OSOS
+Antioquia,SANTIAGO
+Antioquia,SANTO DOMINGO
+Antioquia,SANTUARIO
+Antioquia,SEGOVIA
+Antioquia,SONSON
+Antioquia,SOPETRAN
+Antioquia,TAMESIS
+Antioquia,TARAZA
+Antioquia,TARSO
+Antioquia,TITIRIBI
+Antioquia,TOLEDO
+Antioquia,TURBO
+Antioquia,URAMITA
+Antioquia,URRAO
+Antioquia,VALDIVIA
+Antioquia,VALPARAISO
+Antioquia,VEGACHI
+Antioquia,VENECIA
+Antioquia,VIGIA DEL FUERTE
+Antioquia,YALI
+Antioquia,YARUMAL
+Antioquia,YOLOMBO
+Antioquia,YONDO
+Antioquia,ZARAGOZA
+Arauca,ARAUCA,Capital
+Arauca,ARAUQUITA
+Arauca,CRAVO NORTE
+Arauca,FORTUL
+Arauca,PUERTO RONDON
+Arauca,SARAVENA
+Arauca,TAME
+Archipielago San Andres y Providencia,PROVIDENCIA
+Archipielago San Andres y Providencia,SAN ANDRES,Capital
+Atlantico,BARANOA
+Atlantico,BARRANQUILLA,Capital
+Atlantico,CAMPO DE LA CRUZ
+Atlantico,CANDELARIA
+Atlantico,GALAPA
+Atlantico,JUAN DE ACOSTA
+Atlantico,LUNUACO
+Atlantico,MALAMBO
+Atlantico,MANATI
+Atlantico,PALMAR DE VARELA
+Atlantico,PIOJO
+Atlantico,POLONUEVO
+Atlantico,PONEDERA
+Atlantico,PUERTO COLOMBIA
+Atlantico,REPELON
+Atlantico,SABANAGRANDE
+Atlantico,SABANALARGA
+Atlantico,SANTA LUCIA
+Atlantico,SANTO TOMAS
+Atlantico,SOLEDAD
+Atlantico,SUAN
+Atlantico,TUBARA
+Atlantico,USIACURI
+Bolivar,ACHI
+Bolivar,ARJONA
+Bolivar,BARRANCO DE LOBA
+Bolivar,CALAMAR
+Bolivar,CARTAGENA,Capital
+Bolivar,CORDOBA
+Bolivar,EL CARMEN DE BOLIVAR
+Bolivar,EL GUAMO
+Bolivar,MAGANGUE
+Bolivar,MAHATES
+Bolivar,MARGARITA
+Bolivar,MARIA LA BAJA
+Bolivar,MOMPOS
+Bolivar,MORALES
+Bolivar,PINILLOS
+Bolivar,RIO VIEJO
+Bolivar,SAN ESTANISLAO
+Bolivar,SAN FERNANDO
+Bolivar,SAN JACINTO
+Bolivar,SAN JUAN NEPOMUCENO
+Bolivar,SAN MARTIN DE LOBA
+Bolivar,SAN PABLO
+Bolivar,SANTA CATALINA
+Bolivar,SANTA ROSA
+Bolivar,SANTA ROSA DEL SUR
+Bolivar,SIMITI
+Bolivar,SOPLAVIENTO
+Bolivar,TALAIGUA NUEVO
+Bolivar,TURBACO
+Bolivar,TURBANA
+Bolivar,VILLANUEVA
+Bolivar,ZAMBRANO
+Boyaca,ALMEIDA
+Boyaca,AQUITANA
+Boyaca,ARCABUCO
+Boyaca,BELEN
+Boyaca,BERBEO
+Boyaca,BETEITIVA
+Boyaca,BOAVITA
+Boyaca,BOYACA
+Boyaca,BRICEÑO
+Boyaca,BUENAVISTA
+Boyaca,BUSBANZA
+Boyaca,CALDAS
+Boyaca,CAMPOHERMOSO
+Boyaca,CERINZA
+Boyaca,CHINAVITA
+Boyaca,CHIQUINQUIRA
+Boyaca,CHIQUIZA
+Boyaca,CHISCAS
+Boyaca,CHITA
+Boyaca,CHITARAQUE
+Boyaca,CHIVATA
+Boyaca,CHIVOR
+Boyaca,CIENAGA
+Boyaca,COMBITA
+Boyaca,COPER
+Boyaca,CORRALES
+Boyaca,COVARACHIA
+Boyaca,CUBARA
+Boyaca,CUCAITA
+Boyaca,CUITIVA
+Boyaca,DUITAMA
+Boyaca,EL COCUY
+Boyaca,EL ESPINO
+Boyaca,FIRAVITOVA
+Boyaca,FLORESTA
+Boyaca,GACHANTIVA
+Boyaca,GAMEZA
+Boyaca,GARAGOA
+Boyaca,GUACAMAYAS
+Boyaca,GUATEQUE
+Boyaca,GUAYATA
+Boyaca,GUICAN
+Boyaca,IZA
+Boyaca,JENESANO
+Boyaca,JERICO
+Boyaca,LA  VICTORIA
+Boyaca,LA CAPILLA
+Boyaca,LA UVITA
+Boyaca,LABRANZAGRANDE
+Boyaca,MACANAL
+Boyaca,MARIPI
+Boyaca,MIRAFLORES
+Boyaca,MONGUA
+Boyaca,MONGUI
+Boyaca,MONIQUIRA
+Boyaca,MOTAVITA
+Boyaca,MUZO
+Boyaca,NOBSA
+Boyaca,NUEVO COLON
+Boyaca,OICATA
+Boyaca,OTANCHE
+Boyaca,PACHAVITA
+Boyaca,PAEZ
+Boyaca,PAIPA
+Boyaca,PAJANITO
+Boyaca,PANQUEBA
+Boyaca,PAUNA
+Boyaca,PAYA
+Boyaca,PAZ DEL RIO
+Boyaca,PESCA
+Boyaca,PISBA
+Boyaca,PUERTO BOYACA
+Boyaca,QUIPAMA
+Boyaca,RAMIRIQUI
+Boyaca,RAQUIRA
+Boyaca,RONDON
+Boyaca,SABOYA
+Boyaca,SACHICA
+Boyaca,SAMACA
+Boyaca,SAN EDUARDO
+Boyaca,SAN JOSE DE PARE
+Boyaca,SAN LUIS DE GACENO
+Boyaca,SAN MATEO
+Boyaca,SAN MIGUEL DE SERNA
+Boyaca,SAN PABLO DE BORBUR
+Boyaca,SANTA MARIA
+Boyaca,SANTA ROSA DE VITERBO
+Boyaca,SANTA SOFIA
+Boyaca,SANTANA
+Boyaca,SATIVANORTE
+Boyaca,SATIVASUR
+Boyaca,SIACHOQUE
+Boyaca,SOATA
+Boyaca,SOCHA
+Boyaca,SOCOTA
+Boyaca,SOGAMOSO
+Boyaca,SOMONDOCO
+Boyaca,SORA
+Boyaca,SORACA
+Boyaca,SOTAQUIRA
+Boyaca,SUSACON
+Boyaca,SUTAMARCHAN
+Boyaca,SUTATENZA
+Boyaca,TASCO
+Boyaca,TENZA
+Boyaca,TIBANA
+Boyaca,TIBASOSA
+Boyaca,TINJACA
+Boyaca,TIPACOQUE
+Boyaca,TOCA
+Boyaca,TOGUI
+Boyaca,TOPAGA
+Boyaca,TOTA
+Boyaca,TUMEQUE
+Boyaca,TUNJA,Capital
+Boyaca,TUNUNGUA
+Boyaca,TUTA
+Boyaca,TUTASA
+Boyaca,UMBITA
+Boyaca,VENTAQUEMADA
+Boyaca,VILLA DE LEYVA
+Boyaca,VIRACACHA
+Boyaca,ZETAQUIRA
+Caldas,AGUADAS
+Caldas,ANSERMA
+Caldas,ARANZAZU
+Caldas,BELALCAZAR
+Caldas,CHINCHINA
+Caldas,FILADELFIA
+Caldas,LA DORADA
+Caldas,LA MERCED
+Caldas,MANIZALES,Capital
+Caldas,MANZANARES
+Caldas,MARMATO
+Caldas,MARQUETALIA
+Caldas,MARULANDA
+Caldas,NEIRA
+Caldas,PACORA
+Caldas,PALESTINA
+Caldas,PENSILVANIA
+Caldas,RIOSUCIO
+Caldas,RISARALDA
+Caldas,SALAMINA
+Caldas,SAMANA
+Caldas,SUPIA
+Caldas,VICTORIA
+Caldas,VILLAMARIA
+Caldas,VITERBO
+Caqueta,ALBANIA
+Caqueta,BELEN DE LOS ANDAQUIES
+Caqueta,CARTAGENA DEL CHAIRA
+Caqueta,CUNILLO
+Caqueta,EL DONCELLO
+Caqueta,EL PAUJIL
+Caqueta,FLORENCIA,Capital
+Caqueta,LA MONTAÑITA
+Caqueta,MILAN
+Caqueta,MORELIA
+Caqueta,PUERTO RICO
+Caqueta,SAN JOSE DE LA FRAGUA
+Caqueta,SAN VICENTE DEL CAGUAN
+Caqueta,SOLANO
+Caqueta,SOLITA
+Caqueta,VALPARAISO
+Casanare,AGUAZUL
+Casanare,CHAMEZA
+Casanare,HATO COROZAL
+Casanare,LA SALINA
+Casanare,MANI
+Casanare,MONTERREY
+Casanare,NUNCHIA
+Casanare,OROCUE
+Casanare,PAZ DE ARIPORO
+Casanare,PORE
+Casanare,RECETOR
+Casanare,SABANALARGA
+Casanare,SACAMA
+Casanare,SAN LUIS DE PALENQUE
+Casanare,TAMARA
+Casanare,TAURAMENA
+Casanare,TRINIDAD
+Casanare,VILLANUEVA
+Casanare,YOPAL,Capital
+Cauca,ALMAGUER
+Cauca,ARGELIA
+Cauca,BALBOA
+Cauca,BOLIVAR
+Cauca,BUENOS AIRES
+Cauca,CAJIBIO
+Cauca,CALDONO
+Cauca,CALOTO
+Cauca,CORINTO
+Cauca,EL TAMBO
+Cauca,FLORENCIA
+Cauca,GUAPI
+Cauca,INZA
+Cauca,JAMBALO
+Cauca,LA SIERRA
+Cauca,LA VEGA
+Cauca,LOPEZ (MICAY)
+Cauca,MERCADERES
+Cauca,MIRANDA
+Cauca,MORALES
+Cauca,PADILLA
+Cauca,PAEZ (BELALCAZAR)
+Cauca,PATIA (EL BORDO)
+Cauca,PIENDAMO
+Cauca,POPAYAN,Capital
+Cauca,PUERTO TEJADA
+Cauca,PURACE
+Cauca,ROSAS
+Cauca,SAN SEBASTIAN
+Cauca,SANTA ROSA
+Cauca,SANTANDER DE QUILICHAO
+Cauca,SILVIA
+Cauca,SOTARA (PISPAMBA)
+Cauca,SUAREZ
+Cauca,TIMBIO
+Cauca,TIMBIQUI
+Cauca,TIRIBIO
+Cauca,TOTORO
+Cesar,AGUACHICA
+Cesar,AGUSTIN CODAZZI
+Cesar,ASTREA
+Cesar,BECEMIL
+Cesar,BOSCONIA
+Cesar,CHIGUANA
+Cesar,CHIMICHAGUA
+Cesar,CURUMANI
+Cesar,EL COPEY
+Cesar,EL PASO
+Cesar,GAMARRA
+Cesar,GONZALES
+Cesar,LA GLORIA
+Cesar,LA JAGUA DE IBIRICO
+Cesar,LA PAZ
+Cesar,MANAURE (BALCON CESAR)
+Cesar,PAILITAS
+Cesar,PELAYA
+Cesar,RIO DE ORO
+Cesar,SAN ALBERTO
+Cesar,SAN DIEGO
+Cesar,SAN MARTIN
+Cesar,TAMALAMEQUE
+Cesar,VALLEDUPAR,Capital
+Choco,ACANDI
+Choco,ALTO BAUDO
+Choco,BAGADO
+Choco,BAHIA SOLANO
+Choco,BAJO BAUDO
+Choco,BOJAYA
+Choco,CONDOTO
+Choco,EL CARMEN DE ATRATO
+Choco,ISTMINA
+Choco,JURADO
+Choco,LITORAL DE SAN JUAN
+Choco,LLORO
+Choco,NOVITA
+Choco,NUQUI
+Choco,QUIBDO,Capital
+Choco,RIOSUCIO
+Choco,SAN JOSE DE PALMAR
+Choco,SIPI
+Choco,TADO
+Choco,UNGUIA
+Cordoba,AYAPEL
+Cordoba,BUENAVISTA
+Cordoba,CANALETE
+Cordoba,CERETE
+Cordoba,CHIMA
+Cordoba,CHINU
+Cordoba,CIENAGA DE ORO
+Cordoba,LORICA
+Cordoba,LOS CORDOBAS
+Cordoba,MOMIL
+Cordoba,MONTELIBANO
+Cordoba,MONTERIA,Capital
+Cordoba,MOÑITOS
+Cordoba,PLANETA RICA
+Cordoba,PUEBLO NUEVO
+Cordoba,PUERTO ESCONDIDO
+Cordoba,PUERTO LIBERTADOR
+Cordoba,PURISIMA
+Cordoba,SAHAGUN
+Cordoba,SAN ANDRES DE SOTAVENTO
+Cordoba,SAN ANTERO
+Cordoba,SAN BERNARDO DEL VIENTO
+Cordoba,SAN CARLOS
+Cordoba,SAN PELAYO
+Cordoba,TIERRALTA
+Cordoba,VALENCIA
+Cundinamarca,AGUA DE DIOS
+Cundinamarca,ALBAN
+Cundinamarca,ANAPOIMA
+Cundinamarca,ANOLAIMA
+Cundinamarca,APULO (RAFAEL REYES)
+Cundinamarca,ARBELAEZ
+Cundinamarca,BELTRAN
+Cundinamarca,BITUIMA
+Cundinamarca,BOJACA
+Cundinamarca,CABRERA
+Cundinamarca,CACHIPAY
+Cundinamarca,CAJICA
+Cundinamarca,CAPARRAPI
+Cundinamarca,CAQUEZA
+Cundinamarca,CARMEN DE CARUPA
+Cundinamarca,CHAGUANI
+Cundinamarca,CHIA
+Cundinamarca,CHIPAQUE
+Cundinamarca,CHOACHI
+Cundinamarca,CHOCONTA
+Cundinamarca,COGUA
+Cundinamarca,COTA
+Cundinamarca,CUCUNUBA
+Cundinamarca,EL COLEGIO
+Cundinamarca,EL PEÑON
+Cundinamarca,FACACATIVA
+Cundinamarca,FOMEQUE
+Cundinamarca,FOSCA
+Cundinamarca,FUNZA
+Cundinamarca,FUQUENE
+Cundinamarca,FUSAGASUGA
+Cundinamarca,GACHALA
+Cundinamarca,GACHANCIPA
+Cundinamarca,GACHETA
+Cundinamarca,GAMA
+Cundinamarca,GIRARDOT
+Cundinamarca,GUACHETA
+Cundinamarca,GUADUAS
+Cundinamarca,GUASCA
+Cundinamarca,GUATAQUI
+Cundinamarca,GUATAVITA
+Cundinamarca,GUAYABAL DE SIQUIMA
+Cundinamarca,GUAYABETAL
+Cundinamarca,GUTIERREZ
+Cundinamarca,JERUSALEN
+Cundinamarca,JUNIN
+Cundinamarca,LA CALERA
+Cundinamarca,LA MESA
+Cundinamarca,LA PALMA
+Cundinamarca,LA PEÑA
+Cundinamarca,LA VEGA
+Cundinamarca,LENGUAZAQUE
+Cundinamarca,MACHETA
+Cundinamarca,MADRID
+Cundinamarca,MANTA
+Cundinamarca,MEDINA
+Cundinamarca,MOSQUERA
+Cundinamarca,NARIÑO
+Cundinamarca,NEMOCON
+Cundinamarca,NILO
+Cundinamarca,NINAIMA
+Cundinamarca,NOCAIMA
+Cundinamarca,PACHO
+Cundinamarca,PAIME
+Cundinamarca,PANDI
+Cundinamarca,PARATEBUENO
+Cundinamarca,PASCA
+Cundinamarca,PUERTO SALGAR
+Cundinamarca,PULI
+Cundinamarca,QUEBRADAGRANDE
+Cundinamarca,QUETAME
+Cundinamarca,QUIPILE
+Cundinamarca,RICAURTE
+Cundinamarca,SAN ANTONIO DEL TEQUENDAM
+Cundinamarca,SAN BERNARDO
+Cundinamarca,SAN CAYETANO
+Cundinamarca,SAN FRANCISCO
+Cundinamarca,SAN JUAN DE RIOSECO
+Cundinamarca,SANTA FE DE BOGOTA D.C.,Capital
+Cundinamarca,SASAIMA
+Cundinamarca,SESQUILE
+Cundinamarca,SIBATE
+Cundinamarca,SILVANIA
+Cundinamarca,SIMIJACA
+Cundinamarca,SOACHA
+Cundinamarca,SOPO
+Cundinamarca,SUBACHOQUE
+Cundinamarca,SUESCA
+Cundinamarca,SUPATA
+Cundinamarca,SUSA
+Cundinamarca,SUTATAUSA
+Cundinamarca,TABIO
+Cundinamarca,TAUSA
+Cundinamarca,TENA
+Cundinamarca,TENJO
+Cundinamarca,TIBACUY
+Cundinamarca,TIBIRITA
+Cundinamarca,TOCAIMA
+Cundinamarca,TOCANCIPA
+Cundinamarca,TOPAIPI
+Cundinamarca,UBALA
+Cundinamarca,UBAQUE
+Cundinamarca,UBATE
+Cundinamarca,UNE
+Cundinamarca,UTICA
+Cundinamarca,VENECIA
+Cundinamarca,VERGARA
+Cundinamarca,VIANI
+Cundinamarca,VILLAGOMEZ
+Cundinamarca,VILLAPINZON
+Cundinamarca,VILLETA
+Cundinamarca,VIOTA
+Cundinamarca,YACOPI
+Cundinamarca,ZIPACON
+Cundinamarca,ZIPAQUIRA
+Guainia,GUAVIARE
+Guainia,PUERTO INIRIDA,Capital
+Guaviare,CALAMAR
+Guaviare,EL RETORNO
+Guaviare,MIRAFLORES
+Guaviare,SAN JOSE DEL GUAVIARE,Capital
+Huila,ACEVEDO
+Huila,AGRADO
+Huila,AIPE
+Huila,ALGECIRAS
+Huila,ALTAMIRA
+Huila,BARAYA
+Huila,CAMPOALEGRE
+Huila,COLOMBIA
+Huila,ELIAS
+Huila,GARZON
+Huila,GIGANTE
+Huila,GUADALUPE
+Huila,HOBO
+Huila,IQUIRA
+Huila,ISNOS
+Huila,LA ARGENTINA
+Huila,LA PLATA
+Huila,NATAGA
+Huila,NEIVA,Capital
+Huila,OPORAPA
+Huila,PAICOL
+Huila,PALERMO
+Huila,PALESTINA
+Huila,PITAL
+Huila,PITALITO
+Huila,RIVERA
+Huila,SALADOBLANCO
+Huila,SAN AGUSTIN
+Huila,SANTA MARIA
+Huila,SUAZA
+Huila,TARQUI
+Huila,TELLO
+Huila,TENUEL
+Huila,TESALIA
+Huila,TIMANA
+Huila,VILLAVIEJA
+Huila,YAGUARA
+La Guajira,BARRANCAS
+La Guajira,EL MOLINO
+La Guajira,FONSECA
+La Guajira,MAICAO
+La Guajira,MANAURE
+La Guajira,RIOHACHA,Capital
+La Guajira,SAN JUAN DEL CESAR
+La Guajira,URIBIA
+La Guajira,URUMITA
+La Guajira,VILLANUEVA
+Magdalena,ARACATACA
+Magdalena,ARIGUANI
+Magdalena,CERRO DE SAN ANTONIO
+Magdalena,CHIVOLO
+Magdalena,CIENAGA
+Magdalena,EL BANCO
+Magdalena,EL PIÑON
+Magdalena,FUNDACION
+Magdalena,GUAMAL
+Magdalena,PIVIJAY
+Magdalena,PLATO
+Magdalena,PUEBLOVIEJO
+Magdalena,REMOLINO
+Magdalena,SAN SEBASTIAN DE BUENAVIS
+Magdalena,SAN ZENON
+Magdalena,SANTA ANA
+Magdalena,SANTA MARTA,Capital
+Magdalena,SITIONUEVO
+Magdalena,TENERIFE
+Meta,ACACIAS
+Meta,BARRANCA DE UPIA
+Meta,CABUYARO
+Meta,CASTILLA LA NUEVA
+Meta,CUBURRAL
+Meta,CUMURAL
+Meta,EL CALVARIO
+Meta,EL CASTILLO
+Meta,FUENTE DE ORO
+Meta,GRANADA
+Meta,GUAMAL
+Meta,LA MACARENA
+Meta,LA URIBE
+Meta,LEJANIAS
+Meta,MAPIRIPAN
+Meta,MESETAS
+Meta,PUERTO CONCORDIA
+Meta,PUERTO GAITAN
+Meta,PUERTO LLERAS
+Meta,PUERTO LOPEZ
+Meta,PUERTO RICO
+Meta,RESTREPO
+Meta,SAN CARLOS DE GARAGOA
+Meta,SAN JUAN DE ARAMA
+Meta,SAN JUANITO
+Meta,SAN MARTIN
+Meta,VILLAVICENCIO,Capital
+Meta,VISTA HERMOSA
+Nariño,ALBAN
+Nariño,ALDANA
+Nariño,ANCUYA
+Nariño,ARBOLEDA
+Nariño,BARBACOAS
+Nariño,BELEN
+Nariño,BUESACO
+Nariño,CHACHAGUI
+Nariño,COLON
+Nariño,CONSACA
+Nariño,CONTADERO
+Nariño,CORDOBA
+Nariño,CUASPUD
+Nariño,CUMBAL
+Nariño,CUMBITARA
+Nariño,EL CHARCO
+Nariño,EL ROSARIO
+Nariño,EL TABLON
+Nariño,EL TAMBO
+Nariño,FUNES
+Nariño,GUACHUCAL
+Nariño,GUAITANILLA
+Nariño,GUALMATAN
+Nariño,ILES
+Nariño,IMUES
+Nariño,IPIALES
+Nariño,LA CRUZ
+Nariño,LA FLORIDA
+Nariño,LA LLANADA
+Nariño,LA TOLA
+Nariño,LA UNION
+Nariño,LEIVA
+Nariño,LINARES
+Nariño,LOS ANDES
+Nariño,MAGUI
+Nariño,MALLAMA
+Nariño,MOSQUERA
+Nariño,OLAYA HERRERA
+Nariño,OSPINA
+Nariño,PASTO,Capital
+Nariño,PIZARRO
+Nariño,POLICARPA
+Nariño,POTOSI
+Nariño,PROVIDENCIA
+Nariño,PUERRES
+Nariño,PUPIALES
+Nariño,RICAURTE
+Nariño,ROBERTO PAYAN
+Nariño,SAMANIEGO
+Nariño,SAN BERNARDO
+Nariño,SAN LORENZO
+Nariño,SAN PABLO
+Nariño,SAN PEDRO DE CARTAGO
+Nariño,SANDONA
+Nariño,SANTA BARBARA
+Nariño,SANTACRUZ
+Nariño,SAPUYES
+Nariño,TAMINANGO
+Nariño,TANGUA
+Nariño,TUMACO
+Nariño,TUQUEMES
+Nariño,YACUANQUER
+Norte de Santander,ABREGO
+Norte de Santander,ARBOLEDAS
+Norte de Santander,BOCHALEMA
+Norte de Santander,BUCARASICA
+Norte de Santander,CACHIRA
+Norte de Santander,CACOTA
+Norte de Santander,CHINACOTA
+Norte de Santander,CHITAGA
+Norte de Santander,CONVENCION
+Norte de Santander,CUCUTA,Capital
+Norte de Santander,CUCUTILLA
+Norte de Santander,DURANIA
+Norte de Santander,EL CARMEN
+Norte de Santander,EL TARRA
+Norte de Santander,EL ZULIA
+Norte de Santander,GRAMOLETE
+Norte de Santander,HACARI
+Norte de Santander,HERRAN
+Norte de Santander,LA PLAYA
+Norte de Santander,LABATECA
+Norte de Santander,LOS PATIOS
+Norte de Santander,LOURDES
+Norte de Santander,MUTISCUA
+Norte de Santander,OCAÑA
+Norte de Santander,PAMPLONA
+Norte de Santander,RAGONVALIA
+Norte de Santander,SALAZAR
+Norte de Santander,SAN CALIXTO
+Norte de Santander,SAN CAYETANO
+Norte de Santander,SANTIAGO
+Norte de Santander,SARDINATA
+Norte de Santander,SILOS
+Norte de Santander,TEORAMA
+Norte de Santander,TIBU
+Norte de Santander,TOLEDO
+Norte de Santander,VILLA CARO
+Norte de Santander,VILLA ROSARIO
+Putumayo,COLON
+Putumayo,MOCOA,Capital
+Putumayo,ORITO
+Putumayo,PUERTO ASIS
+Putumayo,PUERTO CAICEDO
+Putumayo,PUERTO GUZMAN
+Putumayo,PUERTO LEGUIZAMO
+Putumayo,SAN FRANCISCO
+Putumayo,SANTIAGO
+Putumayo,SIBUNDOY
+Putumayo,VALLE DE GUAMEZ
+Putumayo,VILLAGARZON
+Quindio,ARMENIA,Capital
+Quindio,BUENAVISTA
+Quindio,CALARCA
+Quindio,CIRCASIA
+Quindio,CORDOBA
+Quindio,FINLANDIA
+Quindio,GENOVA
+Quindio,LA TEBAIDA
+Quindio,MONTENEGRO
+Quindio,PIJAO
+Quindio,QUIMBAYA
+Quindio,SALENTO
+Risaralda,APIA
+Risaralda,BALBOA
+Risaralda,BELEN DE UMBRIA
+Risaralda,DOSQUEBRADAS
+Risaralda,GUATICA
+Risaralda,LA CELIA
+Risaralda,LA VIRGINIA
+Risaralda,MARSELLA
+Risaralda,MISTRATO
+Risaralda,PEREIRA,Capital
+Risaralda,PUEBLO RICO
+Risaralda,QUINCHIA
+Risaralda,SANTA ROSA DE CABAL
+Risaralda,SANTUARIO
+Santander,AGUADA
+Santander,ALBANIA
+Santander,AROTACA
+Santander,BARBOSA
+Santander,BARICHARA
+Santander,BARRANCABERMEJA
+Santander,BETULIA
+Santander,BOLIVAR
+Santander,BUCARAMANGA
+Santander,CABRERA
+Santander,CALIFORNIA
+Santander,CAPITANEJO
+Santander,CARCASI
+Santander,CEPITA
+Santander,CERRITO
+Santander,CHARALA
+Santander,CHARTA
+Santander,CHIMA
+Santander,CHIPATA
+Santander,CIMITARRA
+Santander,CONCEPCION
+Santander,CONFINES
+Santander,CONTRATACION
+Santander,COROMORO
+Santander,CURUTI
+Santander,EL CARMEN DE CHUCURI
+Santander,EL GUACAMAYO
+Santander,EL PEÑON
+Santander,EL PLAYON
+Santander,ENCINO
+Santander,ENCISO
+Santander,FLORIAN
+Santander,FLORIDABLANCA
+Santander,GALAN
+Santander,GAMBITA
+Santander,GIRON
+Santander,GUACA
+Santander,GUADALUPE
+Santander,GUAPOTA
+Santander,GUAVATA
+Santander,GUEPSA
+Santander,HATO
+Santander,JESUS MARIA
+Santander,JORDAN
+Santander,LA BELLEZA
+Santander,LA PAZ
+Santander,LANDAZURI
+Santander,LEBRIJA
+Santander,LOS SANTOS
+Santander,MACARAVITA
+Santander,MALAGA
+Santander,MATANZA
+Santander,MOGOLES
+Santander,MOLOGAVITA
+Santander,OCAMONTE
+Santander,OIBA
+Santander,ONZAGA
+Santander,PALMAR
+Santander,PALMSA DEL SOCORRO
+Santander,PARAMO
+Santander,PIEDECUESTA
+Santander,PINCHOTE
+Santander,PUENTE NACIONAL
+Santander,PUERTO PARRA
+Santander,PUERTO WILCHES
+Santander,RIONEGRO
+Santander,SABANA DE TORRES
+Santander,SAN ANDRES,Capital
+Santander,SAN BENITO
+Santander,SAN GIL
+Santander,SAN JOAQUIN
+Santander,SAN JOSE DE MIRANDA
+Santander,SAN MIGUEL
+Santander,SAN VICENTE DE CHUCURI
+Santander,SANTA BARBARA
+Santander,SANTA HELENA DEL OPON
+Santander,SIMACOTA
+Santander,SOCORRO
+Santander,SUAITA
+Santander,SUCRE
+Santander,SURATA
+Santander,TONA
+Santander,VALLE DE SAN JOSE
+Santander,VELEZ
+Santander,VETAS
+Santander,VILLANUEVA
+Santander,ZAPATOCA
+Sucre,BUENAVISTA
+Sucre,CAIMITO
+Sucre,CHALAN
+Sucre,COLOSO
+Sucre,COROZAL
+Sucre,GALERAS
+Sucre,GUARANDA
+Sucre,LA UNION DE SUCRE
+Sucre,LOS PALMITOS
+Sucre,MAJAGUAL
+Sucre,MORROA
+Sucre,OVEJAS
+Sucre,PALMITO
+Sucre,SAMPUES
+Sucre,SAN BENITO ABAD
+Sucre,SAN JUAN DE BETULIA
+Sucre,SAN MARCOS
+Sucre,SAN ONOFRE
+Sucre,SAN PEDRO
+Sucre,SINCELEJO,Capital
+Sucre,SUCRE
+Sucre,TOLU
+Sucre,TOLUVIEJO
+Tolima,ALPUJARRA
+Tolima,ALVARADO
+Tolima,AMBALEMA
+Tolima,ANZOATEGUI
+Tolima,ARMERO
+Tolima,ATACO
+Tolima,CAJAMARCA
+Tolima,CARMEN DE APICALA
+Tolima,CASABLANCA
+Tolima,CHAPARRAL
+Tolima,COELLO
+Tolima,COYAIMA
+Tolima,CUNDAY
+Tolima,DOLORES
+Tolima,ESPINAL
+Tolima,FALAN
+Tolima,FLANDES
+Tolima,FRESNO
+Tolima,GUAMO
+Tolima,HERVEO
+Tolima,HONDA
+Tolima,IBAGUE,Capital
+Tolima,ICONONZO
+Tolima,LERIDA
+Tolima,LIBANO
+Tolima,MARIQUITA
+Tolima,MELGAR
+Tolima,MURILLO
+Tolima,NATAGAIMA
+Tolima,ORTEGA
+Tolima,PIEDRAS
+Tolima,PLANADAS
+Tolima,PRADO
+Tolima,PURIFICACION
+Tolima,RIOBLANCO
+Tolima,RONCESVALLES
+Tolima,ROVIRA
+Tolima,SALDAÑA
+Tolima,SAN ANTONIO
+Tolima,SAN LUIS
+Tolima,SANTA ISABEL
+Tolima,SUAREZ
+Tolima,VALLE DE SAN JUAN
+Tolima,VENADILLO
+Tolima,VILLAHERMOSA
+Tolima,VILLARRICA
+Valle del Cauca,ALCALA
+Valle del Cauca,ANDALUCIA
+Valle del Cauca,ANSERMANUEVO
+Valle del Cauca,ARGELIA
+Valle del Cauca,BOLIVAR
+Valle del Cauca,BUENAVENTURA
+Valle del Cauca,BUGA
+Valle del Cauca,BUGALAGRANDE
+Valle del Cauca,CAICEDONIA
+Valle del Cauca,CALI,Capital
+Valle del Cauca,CALIMA
+Valle del Cauca,CANDELARIA
+Valle del Cauca,CARTAGO
+Valle del Cauca,DAGUA
+Valle del Cauca,EL AGUILA
+Valle del Cauca,EL CAIRO
+Valle del Cauca,EL CERRITO
+Valle del Cauca,EL DOVIO
+Valle del Cauca,FLORIDA
+Valle del Cauca,GINEBRA
+Valle del Cauca,GUACARI
+Valle del Cauca,JAMUNDI
+Valle del Cauca,LA CUMBRE
+Valle del Cauca,LA UNION
+Valle del Cauca,LA VICTORIA
+Valle del Cauca,OBANDO
+Valle del Cauca,PALMIRA
+Valle del Cauca,PRADERA
+Valle del Cauca,RESTREPO
+Valle del Cauca,RIOFRIO
+Valle del Cauca,ROLDANILLO
+Valle del Cauca,SAN PEDRO
+Valle del Cauca,SEVILLA
+Valle del Cauca,TORO
+Valle del Cauca,TRUJILLO
+Valle del Cauca,TULUA
+Valle del Cauca,ULLOA
+Valle del Cauca,VERSALLES
+Valle del Cauca,VIJES
+Valle del Cauca,YOTOCO
+Valle del Cauca,YUMBO
+Valle del Cauca,ZARZAL
+Vaupes,CARURU
+Vaupes,MITU,Capital
+Vaupes,PACOA
+Vaupes,YARAVATE
+Vichada,LA PRIMAVERA
+Vichada,NUEVA ANTIOQUIA
+Vichada,PUERTO CARREÑO,Capital
+Vichada,SAN JOSE DE OCUNE
+Vichada,SANTA RITA
+Vichada,SANTA ROSALIA
