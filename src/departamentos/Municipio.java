@@ -50,7 +50,6 @@ public class Municipio {
 
     public static void mostrar(JTable tbl, Departamento d) {
         String[] encabezados = new String[]{"Municipio", "Capital"};
-        //Contar las regiones del pais
         int totalMunicipios = 0;
         for (int i = 0; i < municipios.length; i++) {
             if (d.obtenerDepartamento().equals(municipios[i].obtenerDepartamento().obtenerDepartamento())) {

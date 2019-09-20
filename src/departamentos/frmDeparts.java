@@ -18,16 +18,14 @@ public class frmDeparts extends javax.swing.JFrame {
         initComponents();
         String datosDepartamentos = System.getProperty("user.dir")
                 + "/src/datos/Municipios.txt";
-        
+
         String[][] datos = Archivo.obtenerDatos(datosDepartamentos);
-        
+
         Departamento.ObtenerDepartamentos(datos);
         Municipio.ObtenerRegiones(datos);
-        
+
         Departamento.llenarLista(cmbDeparts);
 
-               
-            
     }
 
     /**
@@ -118,12 +116,12 @@ public class frmDeparts extends javax.swing.JFrame {
         // TODO add your handling code here:
         String datosImagenes = System.getProperty("user.dir")
                 + "/src/datos/Departamentos.csv";
-        
+
         String[][] datosImg = Archivo.obtenerDatos(datosImagenes);
-        if(cmbDeparts.getSelectedIndex()>=0){
+        if (cmbDeparts.getSelectedIndex() >= 0) {
             Departamento d = Departamento.obtenerDepartamento(cmbDeparts.getSelectedIndex());
-            Municipio.mostrar(tblMunicipios,d);
-            d.mostrarImagen(datosImg,jPanel1,d.obtenerDepartamento());
+            Municipio.mostrar(tblMunicipios, d);
+            d.mostrarImagen(datosImg, jPanel1, d.obtenerDepartamento());
         }
     }//GEN-LAST:event_cmbDepartsActionPerformed
 

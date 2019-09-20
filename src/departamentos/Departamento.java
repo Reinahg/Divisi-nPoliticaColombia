@@ -30,12 +30,11 @@ public class Departamento {
     static String buscarPath(String DepartamentoAct, String[][] datos) {
         String nombreImagen = null;
         int i = 0;
-        while(i<datos.length){
+        while (i < datos.length) {
             if (DepartamentoAct.equals(datos[i][0])) {
-                nombreImagen = datos[i][1];       
+                nombreImagen = datos[i][1];
                 break;
-            }
-            else{
+            } else {
                 i++;
             }
         }
@@ -45,11 +44,9 @@ public class Departamento {
     public static void mostrarImagen(String[][] datos, JPanel pnl, String DepartamentoAct) {
 
         String nombreImagen = buscarPath(DepartamentoAct, datos);
-        
+
         String nombreArchivo = System.getProperty("user.dir")
                 + "/src/mapas/" + nombreImagen;
-
-        System.out.println(nombreArchivo);
 
         Util.mostrarImagen(pnl, nombreArchivo);
 
@@ -83,22 +80,15 @@ public class Departamento {
                     departamentos = (Departamento[]) Util.redimensionar(departamentos, departamentos.length + 1);
                 }
                 departamentos[departamentos.length - 1] = new Departamento(datos[i][0]);
-                //System.out.println(departamentos[departamentos.length-1].obtenerDepartamento());
+
                 anteriorDepartamento = datos[i][0];
-                //System.out.println(anteriorDepartamento);
-                //System.out.println(departamentos[i].obtenerDepartamento());
             }
-        }
-        for (int i = 0; i < 10; i++) {
-            //System.out.println(departamentos[i].obtenerDepartamento());
         }
     }
 
     public static void llenarLista(JComboBox cmb) {
         cmb.removeAllItems();
-        for (int i = 0; i < 10; i++) {
-            //System.out.println(departamentos[i].obtenerDepartamento());
-        }
+
         if (departamentos != null) {
             for (int i = 0; i < departamentos.length; i++) {
                 cmb.addItem(departamentos[i].obtenerDepartamento());
